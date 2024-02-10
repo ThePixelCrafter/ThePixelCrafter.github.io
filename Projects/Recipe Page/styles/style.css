@@ -1,18 +1,18 @@
 @font-face {
     font-family: "Outfit";
-    src: url("../assets/fonts/outfit/static/Outfit-Medium.ttf");
+    src: url("/assets/fonts/outfit/static/Outfit-Medium.ttf");
     font-weight: normal;
 }
 
 @font-face {
     font-family: "Outfit";
-    src: url("../assets/fonts/outfit/static/Outfit-Light.ttf");
+    src: url("/assets/fonts/outfit/static/Outfit-Light.ttf");
     font-weight: 200;
 }
 
 @font-face {
     font-family: "Young Serif";
-    src: url("../assets/fonts/young-serif/YoungSerif-Regular.ttf");
+    src: url("/assets/fonts/young-serif/YoungSerif-Regular.ttf");
 }
 
 * {
