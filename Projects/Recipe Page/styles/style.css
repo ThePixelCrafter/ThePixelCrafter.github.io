@@ -123,6 +123,10 @@ main .Nutrition-table__row .table-data {
     color: var(--accent-color);
 }
 
+main strong {
+    color: black;
+}
+
 .attribution {
     position: absolute;
     bottom: 2em;
