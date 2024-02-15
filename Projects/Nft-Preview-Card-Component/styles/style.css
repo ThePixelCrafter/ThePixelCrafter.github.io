@@ -27,9 +27,10 @@ main {
     background-color: var(--back-very-dark-blue);
     display: grid;
     grid-template-columns: 350px;
-    justify-content: center;
+    place-content: center;
     padding: 8.5rem 0;
     position: relative;
+    min-height: 100vh;
 }
 
 main .card {
